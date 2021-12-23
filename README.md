@@ -289,6 +289,3 @@ Run-length encoding (RLE):
 -----
 * we got an accuracy of 87% with a good precision, recall and f1 score after that I build RESUNET SEGMENTATION MODEL which even provide me better result then I save the best model with lower validation loss and used it for prediction.
 
-
-      NOTE--> we can further improve the performance by using other model such as Logistic regression, random forest, XGBOOST, LighGBM and many more. Further performance can be  improved by using various hyperparameter optimization technique such as optuna,hyperpot, Grid Search, Randomized Search, etc.   
-
